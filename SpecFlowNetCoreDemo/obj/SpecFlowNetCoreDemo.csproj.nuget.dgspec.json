@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\otc91127\\source\\repos\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj": {}
+    "C:\\Users\\otc91127\\source\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\otc91127\\source\\repos\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj": {
+    "C:\\Users\\otc91127\\source\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\otc91127\\source\\repos\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj",
+        "projectUniqueName": "C:\\Users\\otc91127\\source\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj",
         "projectName": "SpecFlowNetCoreDemo",
-        "projectPath": "C:\\Users\\otc91127\\source\\repos\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj",
+        "projectPath": "C:\\Users\\otc91127\\source\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo.csproj",
         "packagesPath": "C:\\Users\\otc91127\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\otc91127\\source\\repos\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\obj\\",
+        "outputPath": "C:\\Users\\otc91127\\source\\SpecFlowNetCoreDemo\\SpecFlowNetCoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
